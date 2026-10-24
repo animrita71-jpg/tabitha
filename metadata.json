@@ -1,0 +1,6 @@
+{
+  "name": "Zuri Atelier — Handcrafted Beads & Couture Fashion",
+  "description": "Sleek luxury storefront for handcrafted beadwork jewelry, crystal evening clutches, and bespoke beaded couture fashion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
