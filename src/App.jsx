@@ -32,7 +32,7 @@ function StorefrontShell() {
       />
 
       <main className="flex-1">
-        <Hero />
+        <Hero onQuickView={(product) => setSelectedProduct(product)} />
 
         <ProductCatalog onQuickView={(product) => setSelectedProduct(product)} />
 
